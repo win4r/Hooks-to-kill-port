@@ -1,6 +1,8 @@
 # Claude Code 智能端口管理 Hook
 
-### 我的频道：https://www.youtube.com/@AIsuperdomain
+
+### 我的b站频道：https://space.bilibili.com/3493277319825652
+### 我的yt频道：https://www.youtube.com/@AIsuperdomain
 
 在使用 Claude Code 启动 Node.js 项目时，自动关闭占用端口的旧进程，避免 "port already in use" 错误。
 
